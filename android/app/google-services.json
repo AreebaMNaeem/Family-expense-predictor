@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30854778659",
+    "project_id": "family-expense-predictor-2b7df",
+    "storage_bucket": "family-expense-predictor-2b7df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30854778659:android:0a7f4618d1e36468f84696",
+        "android_client_info": {
+          "package_name": "com.example.family_expense_predictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq0Iq7EsN_WUccBbmmdTZ-NEbLa1IJW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
